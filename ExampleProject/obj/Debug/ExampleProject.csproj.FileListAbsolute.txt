@@ -1,0 +1,7 @@
+C:\Users\Kojima\source\repos\ExampleProject\ExampleProject\bin\Debug\ExampleProject.exe.config
+C:\Users\Kojima\source\repos\ExampleProject\ExampleProject\bin\Debug\ExampleProject.exe
+C:\Users\Kojima\source\repos\ExampleProject\ExampleProject\bin\Debug\ExampleProject.pdb
+C:\Users\Kojima\source\repos\ExampleProject\ExampleProject\obj\Debug\ExampleProject.csproj.AssemblyReference.cache
+C:\Users\Kojima\source\repos\ExampleProject\ExampleProject\obj\Debug\ExampleProject.csproj.CoreCompileInputs.cache
+C:\Users\Kojima\source\repos\ExampleProject\ExampleProject\obj\Debug\ExampleProject.exe
+C:\Users\Kojima\source\repos\ExampleProject\ExampleProject\obj\Debug\ExampleProject.pdb
